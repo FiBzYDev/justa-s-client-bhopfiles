@@ -1,5 +1,3 @@
--- "gamemodes\\bhop\\gamemode\\modules\\movementfixes\\sh_prediction.lua"
--- Retrieved by https://github.com/lewisclark/glua-steal
 -- RNGFix
 
 local lastGroundEnt = {}
