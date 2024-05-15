@@ -1,5 +1,3 @@
--- "gamemodes\\bhop\\gamemode\\essential\\sh_movement.lua"
--- Retrieved by https://github.com/lewisclark/glua-steal
 -- Bunny Hop
 -- by justa
 
