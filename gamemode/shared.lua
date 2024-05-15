@@ -1,5 +1,3 @@
--- "gamemodes\\bhop\\gamemode\\shared.lua"
--- Retrieved by https://github.com/lewisclark/glua-steal
 --[[
 	Bunny Hop
 	a gamemode by justa
