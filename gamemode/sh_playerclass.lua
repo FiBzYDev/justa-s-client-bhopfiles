@@ -1,5 +1,3 @@
--- "gamemodes\\bhop\\gamemode\\sh_playerclass.lua"
--- Retrieved by https://github.com/lewisclark/glua-steal
 DEFINE_BASECLASS("player_default")
 
 local PLAYER = {}
